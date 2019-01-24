@@ -1,0 +1,7 @@
+.git
+.idea
+*.iml
+/out
+/**/.idea
+/**/.iml
+/**/out
