@@ -1,4 +1,4 @@
-package cn.mln521.demo01.demo4;
+package cn.mln521.demo01.demo04;
 
 /*
 一个方法可以有0、1、多个参数；但是只能有0或者1个返回值，不能有多个返回值。

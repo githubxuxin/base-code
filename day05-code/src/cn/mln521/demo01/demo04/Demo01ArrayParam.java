@@ -1,4 +1,4 @@
-package cn.mln521.demo01.demo4;
+package cn.mln521.demo01.demo04;
 
 /*
 数组可以作为方法的参数。
