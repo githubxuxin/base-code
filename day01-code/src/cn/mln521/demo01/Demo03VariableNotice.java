@@ -1,4 +1,4 @@
-package cn.mln521;
+package cn.mln521.demo01;
 
 /*
 使用变量的时候，有一些注意事项：

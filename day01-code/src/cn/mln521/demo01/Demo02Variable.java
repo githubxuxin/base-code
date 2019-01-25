@@ -1,4 +1,4 @@
-package cn.mln521;
+package cn.mln521.demo01;
 
 /*
 变量：程序运行期间，内容可以发生改变的量。

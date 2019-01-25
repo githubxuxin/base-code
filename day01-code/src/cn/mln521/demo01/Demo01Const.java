@@ -1,4 +1,4 @@
-package cn.mln521;
+package cn.mln521.demo01;
 /*
 常量：在程序运行期间，固定不变的量。
 
